@@ -1,7 +1,7 @@
 # Quiz
-Учебный проект glo academy. 
+Учебный проект glo academy
 
-Интенсив по JavaScript.
+Интенсив по JavaScript
 
 ## Выполнил проект - Агеев Алексей
 
